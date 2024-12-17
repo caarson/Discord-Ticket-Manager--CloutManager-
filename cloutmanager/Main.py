@@ -69,6 +69,7 @@ Ticketing = Ticketing()
 # variables
 ########################################################################
 token = "NjA3NzE1OTA5NTMxODYwOTky.XxjDyg.mkH7MkBVn-tycTPgIJig8B0GBMA"  # Get at discordapp.com/developers/applications/me | switch to change server location.
+token = ""  # Get at discordapp.com/developers/applications/me | switch to change server location.
 bot = commands.Bot(command_prefix='>')
 method_message = "a method has been executed."
 payment_email = 'derejrcar@gmail.com'
